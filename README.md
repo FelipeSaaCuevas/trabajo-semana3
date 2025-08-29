@@ -6,3 +6,5 @@ El modelo que ha ingresado es:
 La cilindrada que ha ingresado es: 
 El tipo de combustible es:  
 Tiene una capacidad de ---- pasajeros.
+opjetivo 
+es crear una aplicacion que sea capas de satisfacer los requerimientos del cliente
