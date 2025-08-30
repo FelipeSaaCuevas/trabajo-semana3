@@ -1,4 +1,5 @@
 lisata de requerimientos
+<<<<<<< HEAD
 datos de entrada: marca, entrada, Cilindrada, Tipo de Combustible, Capacidad en pasajeros
 lisata de Datos de Salida:
 La marca que ha ingresado es: 
@@ -11,3 +12,12 @@ lisata de Datos de Salida: la marca , la entrada , la cilindrada , el tipo de co
 que la aplicacion aga calculos segun las nesesidades del cliente 
 opjetivo 
 es crear una aplicacion que sea capas de satisfacer los requerimientos del cliente
+=======
+datos de entrada: marca, entrada, Cilindrada, Tipo de Combustible y Capacidad en pasajeros
+lisata de Datos de Salida: la marca , la entrada , la cilindrada , el tipo de conbustible y Capacidad en pasajeros.
+que la aplicacion aga calculos segun las nesesidades del cliente 
+
+
+opjetivo 
+es crear una aplicacion que sea capas de satisfacer los requerimientos del cliente
+>>>>>>> d06dcb5bab294d0f890f0da1b4ac7311bc0a27f4
